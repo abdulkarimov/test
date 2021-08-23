@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="register_title">Registration</string>
+    <string name="register_button_text">Register</string>
+    <string name="hint_login">Login</string>
+</resources>
